@@ -58,4 +58,6 @@ main img {
     border: 1px solid #bb8588;
     padding: 1rem;
     background-color: #da627d;
+    height: auto;
+    box-shadow: 0 0 30px gray;
 }
