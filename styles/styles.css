@@ -54,4 +54,8 @@ footer {
 
 main img {
     margin: 1rem;
+    width: 20rem;
+    border: 1px solid #bb8588;
+    padding: 1rem;
+    background-color: #da627d;
 }
