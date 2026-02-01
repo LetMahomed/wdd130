@@ -43,6 +43,7 @@ article {
 
 .socialmedia a {
     text-decoration: none;
+
 }
 
 .hero {
@@ -105,4 +106,15 @@ h3 {
     opacity: 0.7;
     background-color: var(--secondary-color);
     color: white;
+}
+
+footer img {
+    width: 50px;
+    height: auto;
+}
+
+.socialmedia {
+    display: flex;
+    gap: 15px;
+    align-items: left;
 }
