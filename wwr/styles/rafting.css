@@ -107,11 +107,6 @@ h3 {
     color: white;
 }
 
-footer img {
-    width: 50px;
-    height: auto;
-}
-
 .socialmedia {
     display: flex;
     gap: 15px;
